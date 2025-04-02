@@ -26,7 +26,6 @@ learning techniques.
 
 
 
-
 The graph provided is titled “F1-Confidence Curve” and it shows the relationship between the F1 score and the confidence level for detecting “smoke”, “fire”, and “all classes 0.70 at 0.286”. The F1 score is a measure of a model’s accuracy, considering both precision and recall. The confidence level represents the model’s certainty in its predictions. The graph helps to understand the model’s performance at various confidence levels for different classes. By adjusting the confidence threshold, we can potentially improve the F1 score and thus the overall performance of the model.
 
 
