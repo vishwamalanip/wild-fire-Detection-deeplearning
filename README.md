@@ -23,7 +23,7 @@ study improves our capacity to tackle this pressing environmental
 issue by integrating digital image processing and machine
 learning techniques.
 
-
+dataset: https://www.kaggle.com/datasets/vishwamalani/d-fire-dataset-for-forestfire-analysis
 
 
 
